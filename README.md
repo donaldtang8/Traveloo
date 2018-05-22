@@ -1,6 +1,7 @@
 # Traveloo
 
 Team Project Members: WenKang Su, Qiuan Wu, Chenyu Zhao, Shuangchang Li, Donald Tang
+
 Description: Travel website to help users find destinations based on criteria
 
 Project setup:
