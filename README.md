@@ -1,4 +1,4 @@
-# Traveloo
+# :airplane: Traveloo
 
 Project in CS546 (Web Programming) using web development tools to build a website for recommending travel destinations.
 
@@ -29,5 +29,3 @@ Project in CS546 (Web Programming) using web development tools to build a websit
 * **Qiuan Wu**
 * **Chenyu Zhao**
 * **Shuangchang Li**
-
-
